@@ -1,0 +1,7 @@
+1- take branch online from branch you want 
+2- then take the same name and make local branch 
+3- then git clone or check out to local branch 
+4- then git pull origin [ online branch name ] 
+5- all code from online branch will land in you local code
+6- then add - commit - push 
+7- on push you need to set upstream to push to online branch 
